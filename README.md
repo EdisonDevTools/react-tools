@@ -1,5 +1,4 @@
-
-<img src="IconHSI_2.png" alt="Descripción de la imagen" width="40" height="24">
+<img src="images/IconHSI_2.png" alt="Descripción de la imagen" width="40" height="24">
 
 🚀 <b>React Tools – Handy Utilities for Developers</b><br />
 <i>A collection of useful React components for simplifying development.</i><br />
@@ -56,8 +55,8 @@ No requiere instalación, solo importa el componente en tu proyecto React: <br /
 <b>import FormatDate from "@/(Carpeta de componentes)/FormatDate" o import FormatDate from "@/Components/FormatDate";</b>
 
 Ejemplo de uso:<br />
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />`  Salida: 12/05/2025<br />
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />`  Salida: 05/12/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />` Salida: 12/05/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />` Salida: 05/12/2025<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00<br />
 <br />
