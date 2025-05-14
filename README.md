@@ -29,6 +29,33 @@ No installation required! Simply import the component into your React project:<b
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />` Output: 12/05/2025<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Output: 05/12/2025, 21:31:00<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Output: 12/05/2025, 21:31:00<br />
+<br />
+<br />
+🛠️ How to Contribute  
+🚀 **Want to contribute to `react-tools`?** We'd love your help! Follow these steps to collaborate:  
+✅ **1️⃣ Fork this repository:** Click on "Fork" in the top right of this page to create your own copy.  
+✅ **2️⃣ Clone your fork:**  
+git clone https://github.com/YOUR_USERNAME/react-tools.git  
+cd react-tools
+
+✅ 3️⃣ Create a new branch:  
+git checkout -b feature-new-component
+
+✅ 4️⃣ Add your new component or improve existing ones.  
+✅ 5️⃣ Commit your changes:  
+git add .  
+git commit -m "Added new feature"  
+git push origin feature-new-component  
+✅ 6️⃣ Open a Pull Request: Go to GitHub and click "New pull request" to submit your contribution!  
+  
+📝 Contribution Guidelines  
+🔹 Follow the existing folder structure.   
+🔹 Ensure your code is clean, optimized, and well-documented.   
+🔹 If adding a new component, update the README.md with usage examples.   
+🔹 Test your changes before submitting a Pull Request.  
+  
+🔥 Join our open-source journey and help improve react-tools!   
+🚀 📢 Have questions? Open an issue in GitHub or reach out!  
 
 📌 About<br />
 🚀 Created by Edison – First published utility to help developers globally. 🔗 GitHub Repository: (https://github.com/EdisonDevTools)<br />
@@ -60,5 +87,35 @@ Ejemplo de uso:<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00<br />
 <br />
+
+<br />
+<br />
+🛠️ Cómo Contribuir
+🚀 ¿Quieres aportar a react-tools?   
+¡Nos encantaría contar con tu ayuda!  
+Sigue estos pasos para colaborar:
+✅ 1️⃣ Haz un fork de este repositorio: En la parte superior derecha, haz clic en "Fork" para crear tu propia copia.  
+✅ 2️⃣ Clona tu fork:  
+git clone https://github.com/TU_USUARIO/react-tools.git
+cd react-tools
+✅ 3️⃣ Crea una nueva rama:  
+git checkout -b nueva-funcionalidad  
+
+✅ 4️⃣ Agrega tu nuevo componente o mejora los existentes.  
+✅ 5️⃣ Confirma los cambios:  
+git add .  
+git commit -m "Agregado nuevo componente"  
+git push origin nueva-funcionalidad  
+
+✅ 6️⃣ Abre un Pull Request: Ve a GitHub, haz clic en "New pull request" y envía tu contribución!  
+
+📝 Guía de Contribución
+🔹 Sigue la estructura de carpetas existente.  
+🔹 Asegúrate de que tu código esté limpio, optimizado y bien documentado.  
+🔹 Si agregas un nuevo componente, actualiza el README.md con ejemplos de uso.  
+🔹 Prueba tus cambios antes de enviar un Pull Request.
+🔥 ¡Únete a nuestra iniciativa open-source y ayuda a mejorar react-tools!  
+🚀 📢 ¿Tienes dudas? Abre un Issue en GitHub o contáctanos!  
+
 📌 Autor & Publicación<br />
 🚀 Creado por Edison – Primera utilidad publicada para ayudar a la comunidad. 🔗 Repositorio en GitHub: (https://github.com/EdisonDevTools)<br />
