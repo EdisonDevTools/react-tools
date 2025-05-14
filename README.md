@@ -30,7 +30,6 @@ No installation required! Simply import the component into your React project:<b
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Output: 05/12/2025, 21:31:00<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Output: 12/05/2025, 21:31:00<br />
 <br />
-<br />
 🛠️ How to Contribute  
 🚀 **Want to contribute to `react-tools`?** We'd love your help! Follow these steps to collaborate:  
 ✅ **1️⃣ Fork this repository:** Click on "Fork" in the top right of this page to create your own copy.  
@@ -87,17 +86,14 @@ Ejemplo de uso:<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00<br />
 `<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00<br />
 <br />
-
-<br />
-<br />
-🛠️ Cómo Contribuir
+🛠️ Cómo Contribuir  
 🚀 ¿Quieres aportar a react-tools?   
 ¡Nos encantaría contar con tu ayuda!  
-Sigue estos pasos para colaborar:
+Sigue estos pasos para colaborar:  
 ✅ 1️⃣ Haz un fork de este repositorio: En la parte superior derecha, haz clic en "Fork" para crear tu propia copia.  
 ✅ 2️⃣ Clona tu fork:  
-git clone https://github.com/TU_USUARIO/react-tools.git
-cd react-tools
+git clone https://github.com/TU_USUARIO/react-tools.git  
+cd react-tools  
 ✅ 3️⃣ Crea una nueva rama:  
 git checkout -b nueva-funcionalidad  
 
@@ -113,9 +109,9 @@ git push origin nueva-funcionalidad
 🔹 Sigue la estructura de carpetas existente.  
 🔹 Asegúrate de que tu código esté limpio, optimizado y bien documentado.  
 🔹 Si agregas un nuevo componente, actualiza el README.md con ejemplos de uso.  
-🔹 Prueba tus cambios antes de enviar un Pull Request.
+🔹 Prueba tus cambios antes de enviar un Pull Request.  
 🔥 ¡Únete a nuestra iniciativa open-source y ayuda a mejorar react-tools!  
 🚀 📢 ¿Tienes dudas? Abre un Issue en GitHub o contáctanos!  
 
-📌 Autor & Publicación<br />
+📌 Autor & Publicación  
 🚀 Creado por Edison – Primera utilidad publicada para ayudar a la comunidad. 🔗 Repositorio en GitHub: (https://github.com/EdisonDevTools)<br />
