@@ -37,22 +37,22 @@ Mi intención fue crear una solución ligera y flexible que procesara zonas hora
 🚀 Sin dependencias externas – Este componente formatea fechas en React sin necesidad de librerías adicionales. 
 Soporta múltiples idiomas (en → mm/dd/yyyy, es → dd/mm/yyyy) y maneja zonas horarias correctamente con UTC.
 
-🌟 Características
-✅ Detecta si la fecha tiene hora ("T") y la procesa correctamente. 
-✅ Extrae Año, Mes, Día, Hora, Minuto y Segundo sin errores de zona horaria. 
-✅ Soporta idiomas múltiples: "en" (mm/dd/yyyy) & "es" (dd/mm/yyyy). 
-✅ Diferentes formatos de salida: "D" (Fecha), "T" (Hora), "DT" (Fecha y Hora). 
-✅ Sin librerías externas – Listo para usarse directamente.
+🌟 Características<br />
+✅ Detecta si la fecha tiene hora ("T") y la procesa correctamente. <br />
+✅ Extrae Año, Mes, Día, Hora, Minuto y Segundo sin errores de zona horaria. <br />
+✅ Soporta idiomas múltiples: "en" (mm/dd/yyyy) & "es" (dd/mm/yyyy). <br />
+✅ Diferentes formatos de salida: "D" (Fecha), "T" (Hora), "DT" (Fecha y Hora). <br />
+✅ Sin librerías externas – Listo para usarse directamente.<br />
 
 🚀 Instalación y Uso
 No requiere instalación, solo importa el componente en tu proyecto React: <br />
 <b>import FormatDate from "@/(Carpeta de componentes)/FormatDate" o import FormatDate from "@/Components/FormatDate";</b>
 
 Ejemplo de uso:
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />`  Salida: 12/05/2025
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />`  Salida: 05/12/2025
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00
-`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />`  Salida: 12/05/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />`  Salida: 05/12/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00<br />
 
 📌 Autor & Publicación
 🚀 Creado por Edison – Primera utilidad publicada para ayudar a la comunidad. 🔗 Repositorio en GitHub: (https://github.com/EdisonDevTools)
