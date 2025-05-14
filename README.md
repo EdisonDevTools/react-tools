@@ -55,5 +55,3 @@ Ejemplo de uso:
 
 📌 Autor & Publicación
 🚀 Creado por Edison – Primera utilidad publicada para ayudar a la comunidad. 🔗 Repositorio en GitHub: (https://github.com/EdisonDevTools)
-
-Ejemplo de uso:
