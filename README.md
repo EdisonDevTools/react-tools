@@ -1,8 +1,10 @@
+🚀 <b>React Tools – Handy Utilities for Developers</b><br />
+<br />
+📅 FormatDate.jsx – A Simple React Date Formatter<br />
 🎯 Why This Component?<br />
 There are many ways to handle date formatting in JavaScript, but this is the approach I found to be simple and effective.<br />
 My goal was to build a lightweight, flexible solution that correctly processes time zones and multiple languages without unnecessary complexity.<br />
 <br />
-📅 FormatDate.jsx – A Simple React Date Formatter<br />
 🚀 **Lightweight and Dependency-Free**<br />
 This component handles **date formatting in React** efficiently, without requiring any external libraries.<br />
 It supports **multi-language formatting** (`en` → `mm/dd/yyyy`, `es` → `dd/mm/yyyy`) and ensures **proper UTC conversion** to avoid timezone inconsistencies.<br />
@@ -29,11 +31,12 @@ No installation required! Simply import the component into your React project:<b
 🚀 Created by Edison – First published utility to help developers globally. 🔗 GitHub Repository: (https://github.com/EdisonDevTools)<br />
 <br />
 **Español:**<br />
+🛠️ FormatDate.jsx – Un Formateador de Fechas Simple en React<br />
+<br />
 🌎 ¿Por qué este componente?<br />
 Existen muchas formas de manejar fechas en JavaScript, pero este enfoque es simple y eficiente.<br />
 Mi intención fue crear una solución ligera y flexible que procesara zonas horarias y múltiples idiomas sin agregar complejidad innecesaria.<br />
 <br />
-🛠️ FormatDate.jsx – Un Formateador de Fechas Simple en React<br />
 🚀 Sin dependencias externas – Este componente formatea fechas en React sin necesidad de librerías adicionales.<br />
 Soporta múltiples idiomas (en → mm/dd/yyyy, es → dd/mm/yyyy) y maneja zonas horarias correctamente con UTC.<br />
 <br />
