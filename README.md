@@ -17,13 +17,13 @@ It supports **multi-language formatting** (`en` → `mm/dd/yyyy`, `es` → `dd/m
 🚀 Installation & Usage  
 1️⃣ **Install & Import**  
 No installation required! Simply import the component into your React project:  
-import FormatDate from "@/(componentspath)/FormatDate"; or import FormatDate from "@/Components/FormatDate";
+<b>import FormatDate from "@/(componentspath)/FormatDate"; or import FormatDate from "@/Components/FormatDate";</b>
 
-2️⃣ Usage Example
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />   // Output: 05/12/2025
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />   // Output: 12/05/2025
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />  // Output: 05/12/2025, 21:31:00
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />  // Output: 12/05/2025, 21:31:00
+2️⃣ Usage Example<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />` Output: 05/12/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />` Output: 12/05/2025<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Output: 05/12/2025, 21:31:00<br />
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Output: 12/05/2025, 21:31:00<br />
 
 📌 About
 🚀 Created by Edison – First published utility to help developers globally. 🔗 GitHub Repository: (https://github.com/EdisonDevTools)
@@ -45,13 +45,14 @@ Soporta múltiples idiomas (en → mm/dd/yyyy, es → dd/mm/yyyy) y maneja zonas
 ✅ Sin librerías externas – Listo para usarse directamente.
 
 🚀 Instalación y Uso
-No requiere instalación, solo importa el componente en tu proyecto React: import FormatDate from "@/(Carpeta de componentes)/FormatDate" or import FormatDate from "@/Components/FormatDate";
+No requiere instalación, solo importa el componente en tu proyecto React: <br />
+<b>import FormatDate from "@/(Carpeta de componentes)/FormatDate" o import FormatDate from "@/Components/FormatDate";</b>
 
 Ejemplo de uso:
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />   // Salida: 12/05/2025
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />   // Salida: 05/12/2025
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />  // Salida: 12/05/2025, 21:31:00
-<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />  // Salida: 05/12/2025, 21:31:00
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="es" />`  Salida: 12/05/2025
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="D" language="en" />`  Salida: 05/12/2025
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="es" />` Salida: 12/05/2025, 21:31:00
+`<FormatDate date="2025-05-12T21:31:00.000000Z" format="DT" language="en" />` Salida: 05/12/2025, 21:31:00
 
 📌 Autor & Publicación
 🚀 Creado por Edison – Primera utilidad publicada para ayudar a la comunidad. 🔗 Repositorio en GitHub: (https://github.com/EdisonDevTools)
